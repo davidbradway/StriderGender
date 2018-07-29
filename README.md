@@ -1,5 +1,7 @@
 # README: StriderGender
 
+update: the data in the Jupyter notebook have been updated with the results from the Championship event in Boulder CO. The content below has not yet been updated.
+
 I took my daugher to the Strider Bike race in Charlotte. It seemed like most of the participants were boys. I wanted to take a look at the names in the race results posted to the Strider Bikes website to see if I could verify my hunch.
 
 ## Source for data
